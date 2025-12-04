@@ -1,0 +1,19 @@
+{
+    "name": "flyokai/magento-amp-mate",
+    "description": "Magento specific AMPHP helpers",
+    "require": {
+        "amphp/amp": "^3",
+        "amphp/file": "^3",
+        "amphp/byte-stream": "^2",
+        "amphp/parser": "^1",
+        "flyokai/amp-mate": "dev-dev@dev"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flyokai\\MagentoAmpMate\\": "src/"
+        }
+    }
+}
