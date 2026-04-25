@@ -1,5 +1,7 @@
 # flyokai/magento-amp-mate
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 Magento-specific AMPHP helpers: async cache backend and stream parsing.
 
 ## Key Classes
