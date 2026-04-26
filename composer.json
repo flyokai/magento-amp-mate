@@ -6,7 +6,7 @@
         "amphp/file": "^3",
         "amphp/byte-stream": "^2",
         "amphp/parser": "^1",
-        "flyokai/amp-mate": "dev-dev@dev"
+        "flyokai/amp-mate": "<1"
     },
     "license": [
         "MIT"
